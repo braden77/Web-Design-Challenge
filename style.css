@@ -1,0 +1,44 @@
+img{
+    float: left;
+}
+
+
+/* Adding media queries to show the drop-down, and hide the navbar when the screen is smaller than 480 pixels */
+
+
+
+
+
+.box{
+    min-height: 50px;
+    padding: 0px;
+    margin: 0px;
+    
+    font-weight: 600;
+    color: mediumturquoise;
+    background-color: white;
+    
+}
+
+.box1{
+    min-height: 15px;
+    padding: 0px;
+    margin: 0px;
+    
+    font-weight: 15;
+   
+    
+}
+
+
+
+.p{
+    min-height: 50px;
+    padding: 0px;
+    margin: 0px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+    
+}
